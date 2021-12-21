@@ -11,9 +11,6 @@
     <loc>/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/css/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,16 +20,19 @@
     <loc>/tags/markdown/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/markdown-syntax-guide/</loc>
+    <loc>/projects/markdown-syntax-guide/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/math/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/math-typesetting/</loc>
+    <loc>/projects/math-typesetting/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/rich-text/</loc>
+    <loc>/projects/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/rich-text/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/shortcodes/</loc>
@@ -44,16 +44,10 @@
     <loc>/tags/themes/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/ensemble-learning/</loc>
+    <loc>/projects/example-post/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url><url>
     <loc>/tags/hugo/</loc>
-    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
-  </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
-  </url><url>
-    <loc>/blog/example-post/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url><url>
     <loc>/categories/</loc>

@@ -1,3 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="735px" height="749px" viewBox="-0.5 -0.5 735 749"><defs/><g><path d="M 367 27 L 707 282 L 367 537 L 27 282 Z" fill="#ffffff" stroke="#000000" stroke-width="55" stroke-miterlimit="10" pointer-events="all"/><path d="M 367 27 L 367 295" fill="none" stroke="#000000" stroke-width="55" stroke-miterlimit="10" pointer-events="stroke"/><ellipse cx="367" cy="507.5" rx="212.5" ry="212.5" fill="#ffffff" stroke="#000000" stroke-width="55" pointer-events="all"/><path d="M 180.85 413.15 L 562.08 414.42" fill="none" stroke="#000000" stroke-width="55" stroke-miterlimit="10" pointer-events="stroke"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="16,4 1,12 16,20 31,12 "/>
+<path class="st0" d="M7,15.2V22c0,2.2,4,5,9,5c5,0,9-2.8,9-5v-6.8"/>
+<line class="st0" x1="31" y1="12" x2="31" y2="25"/>
+</svg>
