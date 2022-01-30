@@ -15,10 +15,9 @@
       
       <guid>/about/</guid>
       <description>Hello there! My name is Fadi, and I work as a roboticist.
-I’m currently a Researcher at Worcester Polytechnic Institute while working towards my PhD in Robotics Engineering.
-I work specifically at the Manipulation &amp;amp; Environmental Robotics Lab, where I deal with robotics projects involving computer vision, machine learning, grasping, planning, and control.
-Some of my hobbies include programming, tennis, and reading about science and tech.
-Profile If you’d like to know more about my work and education, please refer to my resume, projects, GitHub, and Scholar.</description>
+Profile If you’d like to know more about my work and education, please refer to my resume, projects, GitHub, and Scholar.
+Contact You may contact me at fadi-alladkani@outlook.com or via my LinkedIn.
+Website I made this website with Hugo and Codex.</description>
     </item>
     
     <item>
